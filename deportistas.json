@@ -1,0 +1,121 @@
+[
+
+		{
+				"id": "1",
+                "name": "Jan Oblak",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Esloveno",
+                "imagen": "https://img-estaticos.atleticodemadrid.com/system/file6s/33352/large2/xWyFGd4Bz2__GL_6835.jpg",
+				"web" : "https://www.laliga.es/jugador/oblak"
+                
+
+		},
+
+		{
+                "id": "2",
+                "name": "Lucas Hernandez",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Francés/Español",
+                "imagen": "https://img-estaticos.atleticodemadrid.com/system/fotos/6968/destacado_460x460/LUCAS.png",
+                "web" : "https://www.laliga.es/jugador/lucas-hernandez"
+                
+        },
+
+		{
+                "id": "3",
+                "name": "Diego GODin",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Uruguayo",
+                "imagen": "https://www.jornadaperfecta.com/blog/wp-content/uploads/2017/03/God%C3%ADn.jpg",
+                "web" : "https://www.laliga.es/jugador/godin"
+
+        },
+
+		{
+                "id": "4",
+                "name": "Jose Maria Gimenez",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Uruguayo",
+                "imagen": "https://b.fssta.com/uploads/application/soccer/players/732955.vresize.350.425.medium.77.png",
+                "web" : "https://www.laliga.es/jugador/gimenez"
+                
+
+        },
+
+		{
+                "id": "5",
+                "name": "Juanfran Torres",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Español",
+                "imagen": "https://img-estaticos.atleticodemadrid.com/system/file6s/27929/large2/TxPCnvyFay_1.jpg.jpg",
+				 "web" : "https://www.laliga.es/jugador/juanfran"
+
+        },
+
+		{
+                "id": "6",
+                "name": "Rodrigo Hernandez",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Español",
+                "imagen": "https://img-estaticos.atleticodemadrid.com/system/fotos/2296/showlarge/rodri1080.jpg",
+                 "web" : "https://www.laliga.es/jugador/rodrigo-1"
+
+
+
+        },
+
+		{
+                "id": "7",
+                "name": "Koke Resurreccion",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Español",
+                "imagen": "http://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2017/04/07/14915574226290.jpg",
+                 "web" : "https://www.laliga.es/jugador/koke"
+
+
+        },
+
+		{
+                "id": "8",
+                "name": "Saul Ñiguez",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Español",
+                "imagen": "https://files.laliga.es/player-photo/6/2/892/256x256_006662_000006_049_1_002_000_000.jpg",
+                 "web" : "https://www.laliga.es/jugador/saul-2"
+
+
+        },
+
+		{
+                "id": "9",
+                "name": "Angel Correa",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Argentino",
+                "imagen": "https://files.laliga.es/player-photo/6/2/2510/256x256_008206_000006_049_1_002_000_000.jpg",
+                 "web" : "https://www.laliga.es/jugador/angel-correa"
+
+
+        },
+
+		{
+                "id": "10",
+                "name": "Antoine Griezmann",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Francés",
+                "imagen": "https://s5.eestatic.com/2017/12/19/elbernabeu/futbol/Futbol_270736632_90436472_1024x576.jpg",
+                 "web" : "https://www.laliga.es/jugador/griezmann"
+
+
+        },
+
+		{
+                "id": "11",
+                "name": "Diego Costa",
+                "deporte": "Fútbol",
+                "nacionalidad" : "Brasileño/Español",
+                "imagen": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/04/25/18/diegocosta2502.jpg",
+                 "web" : "https://www.laliga.es/jugador/diego-costa"
+
+
+        }
+    ]
